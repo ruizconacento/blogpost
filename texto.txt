@@ -2,13 +2,6 @@ Este es el título
 
 @ruizconacento para ver mis proyectos personales 
 
-@ruizsinacento para ver mi vida personles 
-
-
-Ademas aprendí a quitar el head detached, es una version experimental de un checkout, se quita con git switch -
-
-esto hace que volvamos al commit que se hizo 
-
-aunque ese error me salio con un reset :thinking:
+nunca habia estado jugando tanto con git como ahora wuju
 
 Sigueme :)
