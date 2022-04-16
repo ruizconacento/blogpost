@@ -9,4 +9,6 @@ Ademas aprendí a quitar el head detached, es una version experimental de un che
 
 esto hace que volvamos al commit que se hizo 
 
+aunque ese error me salio con un reset :thinking:
+
 Sigueme :)
