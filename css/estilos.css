@@ -1,6 +1,6 @@
 body
 {
-    color: grey;
+    color: blue;
     text-align: center;
     font-family: "montserrat";
     font-size: 16px;
@@ -13,7 +13,7 @@ body
     width: 70%;
     padding: lem;
     text-align: center;
-    border: 1px solid #ddd;
+    border: 1px solid #88a;
     margin: 0 auto;
 }
 
